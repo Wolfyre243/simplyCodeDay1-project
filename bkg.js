@@ -1,1 +1,0 @@
-new bkg = requires(fried-chicken)
